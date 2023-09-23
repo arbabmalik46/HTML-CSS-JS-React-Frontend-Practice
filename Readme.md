@@ -11,7 +11,7 @@
 •<sub> - Subscript text <br>
 •<sup> - Superscript text <br>
 #### Anchor Tags
-<a> simply add target='_blank' in anchor if want to open a new tab <br>
+(<a>) simply add target='_blank' in anchor if want to open a new tab <br>
 #### Table Tags
 To create a table in a webpage, we use some specific tags :
 ▪ <table> tag is used to make a table, with attribute “border” so
@@ -23,5 +23,6 @@ headings of the first row. So, inside the first row <tr>, we use
 the <th> tag. <br>
 ▪ <td> tag stands for table data. We will write our cell data using
 the td tag.<br>
-    
+
+    ![Alt text](image.png)
 

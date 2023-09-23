@@ -24,5 +24,9 @@ the <th> tag. <br>
 ▪ <td> tag stands for table data. We will write our cell data using
 the td tag.<br>
 
-    ![Alt text](image.png)
+</table>
+    ![here lies random text](image.png)
+    ![here is another random text](image-1.png)
+
+
 

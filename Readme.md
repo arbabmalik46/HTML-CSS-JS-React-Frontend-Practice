@@ -25,8 +25,8 @@ the <th> tag. <br>
 the td tag.<br>
 
 </table>
-    ![here lies random text](image.png)
-    ![here is another random text](image-1.png)
-
+   ![image-2](https://github.com/arbabmalik46/HTML-CSS-JS-React-Frontend-Practice/assets/77314830/70a66890-4684-43c4-b753-0f03b4f47e62)
+![image](https://github.com/arbabmalik46/HTML-CSS-JS-React-Frontend-Practice/assets/77314830/20d149e4-855c-4919-a093-bd8c0b74d5cd)
+![image-1](https://github.com/arbabmalik46/HTML-CSS-JS-React-Frontend-Practice/assets/77314830/8b45f950-7ee6-4046-95d4-aa1f58271e85)
 
 

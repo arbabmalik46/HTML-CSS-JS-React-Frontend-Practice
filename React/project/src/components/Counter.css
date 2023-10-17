@@ -1,0 +1,19 @@
+.couterparent{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.couterparent h3{
+ font-size: 30px;   
+}
+.couterparent button{
+    background-color:tomato;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    cursor: grab;
+    margin-top: 10px;
+}

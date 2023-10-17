@@ -1,9 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Header from './Header';
 import User from './User';
 import Button from './Button';
 import App from './App';
+import App2 from './App2';
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Route,
+  Link,
+  BrowserRouter,
+} from "react-router-dom";
 
 const fname = "arbab";
 const lname = "Malik";
@@ -18,8 +25,13 @@ const main = {
 
 
 var root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<>
-<App/>
+root.render(
+  <>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+    {/* <App2/> */}
+    {/* 
 <Header/>
 <br/>
 <Button/>
@@ -28,8 +40,11 @@ root.render(<>
     <h1 style={{ color: 'violet' }}>
       {`Hi my name is ${fname} ${lname}`}
     </h1>
-  </div>
-</>
+  </div> */}
+    <div>
+
+    </div>
+  </>
 );
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

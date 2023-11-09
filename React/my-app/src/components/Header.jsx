@@ -23,6 +23,7 @@ const Header = () => {
         <div style={{ backgroundColor: "white" }}>
           <Link to={"/news"}>News</Link>
         </div>
+        
         <div style={{ backgroundColor: "teal" }}>
           <Link to={"/contact"}>Contact</Link>
         </div>
